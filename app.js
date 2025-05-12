@@ -1,5 +1,5 @@
 
-const tasaCambio = 1100;
+const tasaCambio = 1300;
 
 let continuar = true;
 
